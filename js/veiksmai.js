@@ -5,8 +5,6 @@ const skaicius2 = 8;
 
 const suma = skaicius1 + skaicius2;
 
-console.log(suma);
-
 const skaicius3 = 88;
 const skaicius4 = 77;
 
@@ -34,13 +32,13 @@ const pilnasHTML = '<div>\
 <p>Lorem ipsum</p>\
 </div>';
 
-console.log(pilnasHTML);
+/* console.log(pilnasHTML);
 
 const backtickHTML = `<div>
 <h1>${jsText} ${emoji}</h1>
 <p>${htmlText}</p>
 </div>`;
-console.log(backtickHTML);
+console.log(backtickHTML); */
 
 
 

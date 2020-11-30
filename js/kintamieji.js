@@ -12,12 +12,15 @@
     -logika(boolean)
     -sarasas/masyvas(array)
 
+
+    kintamuju tipas (atminties atzvilgiu)
+    -primytivi reikmse
+    -kompleksines reikmse
+
 */
 
 const vardas ='Vardenis';
 const metai ='2020';
 const arTiesa = true;
 const arNaktis = false;
-const pazymiai = [10, 2, 7, 6];
-const zodynas = ['labs', 'ryts', 'dasd']
 
